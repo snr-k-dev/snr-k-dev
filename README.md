@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![mplfinance](https://img.shields.io/badge/mplfinance-000000?style=flat&logo=python&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-003366?style=flat&logo=python&logoColor=white)
 ![MetaTrader5](https://img.shields.io/badge/MetaTrader5-0073E6?style=flat&logo=metatrader&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Python pathlib](https://img.shields.io/badge/Python%20pathlib-3776AB?style=flat&logo=python&logoColor=white)
